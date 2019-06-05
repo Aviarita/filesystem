@@ -1,6 +1,14 @@
 # Filesystem library
 
-### client.open_file(filename, [pathid](https://github.com/Aviarita/filesystem/blob/master/README.md#path_ids))
+Table of Content
+
+[**open_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#clientopen_filefilename-pathid)<br>
+[**read**](https://github.com/Aviarita/filesystem/blob/master/README.md#fileread)<br>
+[**write**](https://github.com/Aviarita/filesystem/blob/master/README.md#filewritetext)<br>
+[**clear**](https://github.com/Aviarita/filesystem/blob/master/README.md#fileclear)<br>
+[**close**](https://github.com/Aviarita/filesystem/blob/master/README.md#fileclose)<br>
+
+### client.open_file(filename, [pathid](https://github.com/Aviarita/filesystem/blob/master/README.md#paths-ids))
     filename - name of the file you want to open
     path id - pathid of the path where the file will be created/opened from
     returns a metatable of functions
