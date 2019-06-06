@@ -11,7 +11,7 @@ Table of Content
 ### client.open_file(filename, [pathid](https://github.com/Aviarita/filesystem/blob/master/README.md#paths-ids))
     filename - name of the file you want to open
     path id - pathid of the path where the file will be created/opened in/from
-    Returns a table of functions.
+    Returns a table with the following functions.
 
 ### file:read()
     Returns the content of the file.
