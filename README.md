@@ -2,10 +2,10 @@
 
 Table of Content
 
-[**open_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#open_filefilename-pathid)<br>
+[**open_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#open_filefilename-pathid-mode)<br>
 [**read_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#read_filefilename-pathid)<br>
-[**write_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#write_filefilename-pathid)<br>
-[**append_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#append_filefilename-pathid)<br>
+[**write_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#write_filefilename-pathid-text)<br>
+[**append_file**](https://github.com/Aviarita/filesystem/blob/master/README.md#append_filefilename-pathid-text)<br>
 [**file:read**](https://github.com/Aviarita/filesystem/blob/master/README.md#fileread)<br>
 [**file:write**](https://github.com/Aviarita/filesystem/blob/master/README.md#filewritetext)<br>
 [**file:clear**](https://github.com/Aviarita/filesystem/blob/master/README.md#fileclear)<br>
