@@ -59,17 +59,10 @@ Table of Content
         Wherever the game is currently configured to write out to. Defaults to the first SearchPath.
 
 ### Modes
-    r   
-        Open for reading
-    w   
-        Create for writing (will overwrite existing)
-    a   
-        Append to
-    r+  
-        Open for read/write
-    w+  
-        Create for read/write
-    a+  
-        Append to or create for read/write
-    b   
-        When used with any of the above, flags file as binary
+    [r]  Open for reading
+    [w]  Create for writing (will overwrite existing)
+    [a]  Append to
+    [r+] Open for read/write
+    [w+] Create for read/write
+    [a+] Append to or create for read/write
+    [b]  When used with any of the above, flags file as binary
